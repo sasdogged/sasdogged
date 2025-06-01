@@ -11,6 +11,6 @@ I also love learning, solving problems, understanding complex technologies and t
 
 * Learning more about JavaScript frameworks(React currently)📚
 
-* Studying at AltSchool-Africa🏫
+* Schooling online at AltSchool-Africa🏫
 
-* Can reach me: sasdogged@gmail.com 📭
+* Can reach me at: sasdogged@gmail.com 📭

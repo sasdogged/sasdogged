@@ -1,4 +1,4 @@
-# Oh Hello there 👋🏽
+# Oh Hello There 👋🏽
 
 ## I'm Osamudiameh Joseph
 
@@ -7,12 +7,12 @@ I also love learning, solving problems, understanding complex technologies and t
 
 ## Currently:
 
-* I am working on a host of personal projects 💾
+* 💾I am working on a host of personal projects.
 
-* Learning more about JavaScript frameworks(React currently)📚
+* 📚Learning more about JavaScript and it's different frameworks.
 
-* Schooling online at AltSchool-Africa🏫
+* 🏫Schooling online at AltSchool-Africa.
 
-* Can reach me at: sasdogged@gmail.com 📭
+* 📭Can reach me at: sasdogged@gmail.com.
 
-* I am always eager to contribute toopen source projects and collaborate with other developers👷🏽
+* 🤝🏼I am always eager to contribute to challenging and exciting projects and collaborate with other developers.

@@ -15,4 +15,4 @@ I also love learning, solving problems, understanding complex technologies and t
 
 * 📭Can reach me at: sasdogged@gmail.com.
 
-* 🤝🏼I am always eager to contribute to challenging and exciting projects and collaborate with other developers.
+* 🤝🏼I am always eager to contribute to challenging and exciting projects, collaborate with other developers on projects and also at hackathons.

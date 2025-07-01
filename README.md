@@ -6,12 +6,11 @@ I am a Frontend Developerr, who has a passionate fascination for creating scalab
 I also love learning, solving problems, understanding complex technologies and to fully grasp how different technologies work.
 
 ## Currently:
+* 🏫Learning at AltSchool-Africa.
 
 * 💾I am working on a host of personal projects.
 
 * 📚Learning more about JavaScript and it's different frameworks.
-
-* 🏫Schooling online at AltSchool-Africa.
 
 * 📭Can reach me at: sasdogged@gmail.com.
 
